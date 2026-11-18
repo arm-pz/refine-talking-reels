@@ -17,3 +17,7 @@ Ask it things like:
 The skill works with existing video, caption and image-generation tools available to the agent. `embedded-captions` is the better fit for caption-only changes; `reverse-any-video` is for shot-for-shot reconstruction. Tool availability and results depend on the host environment.
 
 The [trigger cases](tests/trigger-cases.md) are written examples, not results from independent agent evaluations. The skill was developed from a real reel-editing session; the earlier output used cue-level English timing and was not fully reviewed with sound. The workflow explicitly calls for those checks on future edits.
+
+## Release status
+
+Version 0.1.0 is a release candidate. The structural validators pass; the ten trigger cases and four discovery prompts were reviewed, not executed as independent agent tests. See [gate review](tests/gate-review.md) and [changelog](CHANGELOG.md). Live skill discovery and end-to-end editing remain untested.
