@@ -1,0 +1,9 @@
+{
+  "skill_name": "refine-talking-reels",
+  "evals": [
+    {"id": 1, "prompt": "Improve my talking-head reel with captions and cutaways.", "expected": "refine-talking-reels"},
+    {"id": 2, "prompt": "Turn my spoken video into an English-subtitled reel with AI visuals.", "expected": "refine-talking-reels"},
+    {"id": 3, "prompt": "Modernize this vertical interview with animated subtitles and reaction clips.", "expected": "refine-talking-reels"},
+    {"id": 4, "prompt": "Add captions to this talking head without editing the video.", "expected": "embedded-captions"}
+  ]
+}

@@ -1,6 +1,8 @@
 ---
 name: refine-talking-reels
 description: Refine an existing talking-head video into a short vertical reel with translated or animated captions, story-led cutaways, and optional reaction inserts. Use when someone asks to improve, recut, or modernize their spoken reel across several of those elements. Not for caption-only work (use embedded-captions) or recreating another video frame by frame (use reverse-any-video).
+metadata:
+  version: "0.1.0"
 ---
 
 # refine-talking-reels
